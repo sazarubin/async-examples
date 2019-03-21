@@ -1,5 +1,3 @@
-using System;
-
 namespace Deadlock.Models
 {
     public class ErrorViewModel
