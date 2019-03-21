@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Deadlock.Models;
 
@@ -6,8 +8,8 @@ namespace Deadlock.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
-        {
+        public IActionResult Index()        {
+            WithDeadlock().Wait();
             return View();
         }
 
@@ -20,6 +22,13 @@ namespace Deadlock.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel {RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier});
+        }
+
+        private async Task WithDeadlock()
+        {
+            Console.WriteLine("started");
+            await Task.Delay(1000);
+            Console.WriteLine("finished!");
         }
     }
 }
