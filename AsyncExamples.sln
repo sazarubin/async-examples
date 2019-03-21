@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosAndDonts", "DosAndDonts\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock", "Deadlock\Deadlock.csproj", "{7959D251-A8F7-4C8E-BEE1-B2B6E1889464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock2", "Deadlock2\Deadlock2.csproj", "{882FE315-97CA-4476-830F-353FB2D6CF3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7959D251-A8F7-4C8E-BEE1-B2B6E1889464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7959D251-A8F7-4C8E-BEE1-B2B6E1889464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7959D251-A8F7-4C8E-BEE1-B2B6E1889464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882FE315-97CA-4476-830F-353FB2D6CF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882FE315-97CA-4476-830F-353FB2D6CF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882FE315-97CA-4476-830F-353FB2D6CF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882FE315-97CA-4476-830F-353FB2D6CF3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
