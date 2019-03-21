@@ -1,0 +1,11 @@
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/bin/Release/netcoreapp2.2/DosAndDonts.deps.json
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/bin/Release/netcoreapp2.2/DosAndDonts.runtimeconfig.json
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/bin/Release/netcoreapp2.2/DosAndDonts.runtimeconfig.dev.json
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/bin/Release/netcoreapp2.2/DosAndDonts.dll
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/bin/Release/netcoreapp2.2/DosAndDonts.pdb
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/obj/Release/netcoreapp2.2/DosAndDonts.csprojAssemblyReference.cache
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/obj/Release/netcoreapp2.2/DosAndDonts.csproj.CoreCompileInputs.cache
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/obj/Release/netcoreapp2.2/DosAndDonts.AssemblyInfoInputs.cache
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/obj/Release/netcoreapp2.2/DosAndDonts.AssemblyInfo.cs
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/obj/Release/netcoreapp2.2/DosAndDonts.dll
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/DosAndDonts/obj/Release/netcoreapp2.2/DosAndDonts.pdb

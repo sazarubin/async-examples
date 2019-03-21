@@ -1,0 +1,11 @@
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.deps.json
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.runtimeconfig.json
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.runtimeconfig.dev.json
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.dll
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.pdb
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.csprojAssemblyReference.cache
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.csproj.CoreCompileInputs.cache
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.AssemblyInfoInputs.cache
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.AssemblyInfo.cs
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.dll
+/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.pdb
