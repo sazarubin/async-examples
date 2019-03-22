@@ -1,9 +1,9 @@
 using System;
 using System.Threading.Tasks;
 
-namespace AsyncOnly
+namespace Async
 {
-    public class NonStatic
+    public class SomeClass
     {
         public async void VoidMethod()
         {
@@ -28,6 +28,21 @@ namespace AsyncOnly
             await Task.Delay(10);
             Console.WriteLine("first await finished");
             await Task.Delay(10);
+            Console.WriteLine("second await finished");
+        }
+
+        public async Task TwoAwaitLoops()
+        {
+            Console.WriteLine("two awaits started");
+            for (var i = 0; i < 5; i++)
+            {
+                await Task.Delay(10);
+            }
+            Console.WriteLine("first await finished");
+            for (var j = 0; j < 3; j++)
+            {
+                await Task.Delay(10);
+            }
             Console.WriteLine("second await finished");
         }
     }

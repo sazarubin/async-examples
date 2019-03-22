@@ -2,49 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2649e6b7-6a31-4ebb-b444-d4578d65c243" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HowManyThreads/obj/HowManyThreads.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HowManyThreads/obj/HowManyThreads.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HowManyThreads/obj/HowManyThreads.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HowManyThreads/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/Async.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/Async.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/obj/fsac.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AsyncExamples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AsyncExamples/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AsyncExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AsyncExamples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/bin/Debug/netcoreapp2.2/AsyncExamples.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/bin/Debug/netcoreapp2.2/AsyncExamples.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/bin/Debug/netcoreapp2.2/AsyncExamples.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/bin/Debug/netcoreapp2.2/AsyncExamples.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/bin/Debug/netcoreapp2.2/AsyncExamples.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/AsyncExamples.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/AsyncExamples.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/AsyncExamples.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.RazorAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.RazorAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.RazorTargetAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/Debug/netcoreapp2.2/AsyncExamples.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsyncExamples/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Deadlock.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Deadlock.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Deadlock.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/net462/Deadlock.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/net462/Deadlock.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/net462/Deadlock.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/netcoreapp2.1/Deadlock.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/netcoreapp2.1/Deadlock.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/netcoreapp2.2/Deadlock.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/netcoreapp2.2/Deadlock.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/netcoreapp2.2/Deadlock.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/Release/netcoreapp2.2/Deadlock.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deadlock/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncExamples.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AsyncExamples.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/AsyncOnly.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Async/Async.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/NonStatic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Async/SomeClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Async/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/AsyncOnly.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/AsyncOnly.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/AsyncOnly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/AsyncOnly.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/AsyncOnly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/AsyncOnly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/AsyncOnly.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/AsyncOnly.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/AsyncOnly.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/AsyncOnly.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/FileExample.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/FileExample.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/FileExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/FileExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/FileExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/FileExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/FileExample.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/FileExample.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/FileExample.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Debug/netcoreapp2.2/FileExample.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/AsyncOnly.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/AsyncOnly.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/AsyncOnly.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/AsyncOnly.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/FileExample.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/FileExample.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/FileExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/FileExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/FileExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/FileExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/FileExample.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/FileExample.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/bin/Release/netcoreapp2.2/FileExample.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/bin/Release/netcoreapp2.2/FileExample.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/AsyncOnly.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/AsyncOnly.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/AsyncOnly.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/AsyncOnly.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/AsyncOnly.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/AsyncOnly.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/AsyncOnly.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/AsyncOnly.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/FileExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/FileExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Debug/netcoreapp2.2/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Debug/netcoreapp2.2/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/FileExample.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/FileExample.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/FileExample.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/FileExample.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/FileExample.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/FileExample.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/AsyncOnly.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/AsyncOnly.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/Release/netcoreapp2.2/FileExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/Release/netcoreapp2.2/FileExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/fsac.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncOnly/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Async/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,34 +131,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AsyncOnly/NonStatic.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Async/SomeClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="375">
+              <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
               <folding>
-                <marker date="1552948519402" expanded="false" signature="6:43" ph="..." />
-                <marker date="1552948519402" expanded="true" signature="64:806" ph="{...}" />
-                <marker date="1552948519402" expanded="true" signature="93:804" ph="{...}" />
-                <marker date="1552948519402" expanded="true" signature="138:197" ph="{...}" />
-                <marker date="1552948519402" expanded="true" signature="236:301" ph="{...}" />
-                <marker date="1552948519402" expanded="true" signature="342:507" ph="{...}" />
-                <marker date="1552948519402" expanded="true" signature="546:798" ph="{...}" />
+                <marker date="1553245533081" expanded="false" signature="6:43" ph="..." />
+                <marker date="1553245533081" expanded="true" signature="60:1241" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="89:1239" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="134:193" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="232:297" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="338:503" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="542:794" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="837:1233" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="940:1006" ph="{...}" />
+                <marker date="1553245533081" expanded="true" signature="1101:1167" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AsyncOnly/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Async/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="180">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
-                <marker date="1553194795577" expanded="false" signature="6:84" ph="..." />
-                <marker date="1553194795577" expanded="true" signature="105:640" ph="{...}" />
-                <marker date="1553194795577" expanded="true" signature="141:638" ph="{...}" />
-                <marker date="1553194795577" expanded="true" signature="201:632" ph="{...}" />
+                <marker date="1553245596136" expanded="false" signature="6:84" ph="..." />
+                <marker date="1553245596136" expanded="true" signature="101:642" ph="{...}" />
+                <marker date="1553245596136" expanded="true" signature="137:640" ph="{...}" />
+                <marker date="1553245596136" expanded="true" signature="197:634" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,25 +170,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deadlock/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="195">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
-                <marker date="1553195140298" expanded="true" signature="6:177" ph="..." />
-                <marker date="1553195140298" expanded="true" signature="209:703" ph="{...}" />
-                <marker date="1553195140298" expanded="true" signature="256:701" ph="{...}" />
-                <marker date="1553195140298" expanded="true" signature="299:346" ph="{...}" />
-                <marker date="1553195140298" expanded="true" signature="386:433" ph="{...}" />
-                <marker date="1553195140298" expanded="true" signature="564:695" ph="{...}" />
+                <marker date="1553245757837" expanded="true" signature="6:124" ph="..." />
+                <marker date="1553245757837" expanded="true" signature="156:869" ph="{...}" />
+                <marker date="1553245757837" expanded="true" signature="203:867" ph="{...}" />
+                <marker date="1553245757837" expanded="true" signature="254:327" ph="{...}" />
+                <marker date="1553245757837" expanded="true" signature="367:414" ph="{...}" />
+                <marker date="1553245757837" expanded="true" signature="545:676" ph="{...}" />
+                <marker date="1553245757837" expanded="true" signature="719:861" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deadlock/Deadlock.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -216,6 +239,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -236,9 +260,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/c8/e5e17cdc/DefaultHttpResponse.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/4d/d56a1f1f/_ThreadPoolWaitCallback.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/a9/92111926/AsyncTaskMethodBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AsyncOnly/NonStatic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Async/SomeClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EA0F7286-DD97-4781-8DBA-04B6963C416B/13/fa8e8349/HttpResponseStream.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AsyncOnly/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Async/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/2b/a877e1ce/AsyncMethodBuilderCore.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/59/8bef6da8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/bd/963aaff7/ThreadPoolWorkQueue.cs" root0="SKIP_HIGHLIGHTING" />
@@ -269,10 +293,13 @@
         <option value="$PROJECT_DIR$/DosAndDonts/Lock.cs" />
         <option value="$PROJECT_DIR$/DosAndDonts/Program.cs" />
         <option value="$PROJECT_DIR$/DosAndDonts/AsyncOverSync.cs" />
-        <option value="$PROJECT_DIR$/AsyncOnly/Program.cs" />
         <option value="$PROJECT_DIR$/Deadlock/Program.cs" />
-        <option value="$PROJECT_DIR$/Deadlock/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/Deadlock/Deadlock.csproj" />
+        <option value="$PROJECT_DIR$/Deadlock/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Async/Async.csproj" />
+        <option value="$PROJECT_DIR$/Async/NonStatic.cs" />
+        <option value="$PROJECT_DIR$/Async/SomeClass.cs" />
+        <option value="$PROJECT_DIR$/Async/Program.cs" />
       </list>
     </option>
   </component>
@@ -300,7 +327,7 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="AsyncExamples" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AsyncOnly" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Async" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -347,7 +374,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.DosAndDonts AsyncLock">
+  <component name="RunManager" selected=".NET Project.Deadlock2">
+    <configuration name="Deadlock" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Deadlock/bin/Release/net462/Deadlock.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deadlock" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Deadlock/Deadlock.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deadlock2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deadlock2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Deadlock2/Deadlock2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DosAndDonts AsyncLock" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/DosAndDonts/bin/Release/netcoreapp2.2/DosAndDonts.dll" />
       <option name="PROGRAM_PARAMETERS" value="asynclock" />
@@ -420,92 +488,18 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileExample" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/AsyncOnly/bin/Debug/netcoreapp2.2/AsyncOnly.dll" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AsyncOnly" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs>
-        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
-        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
-      </envs>
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AsyncOnly/AsyncOnly.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
-      <browser url="http://localhost:5000" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HowManyThreads" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/HowManyThreads/bin/Debug/netcoreapp2.2/HowManyThreads.dll" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HowManyThreads" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HowManyThreads/HowManyThreads.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HowManyThreads2" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/HowManyThreads2/bin/Release/netcoreapp2.2/HowManyThreads2.dll" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HowManyThreads2" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HowManyThreads2/HowManyThreads2.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AsyncExamples" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AsyncExamples/AsyncExamples.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
-      <option name="LAUNCH_PROFILE_NAME" value="AsyncExamples" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue=".NET Launch Settings Profile.AsyncExamples" />
+      <item itemvalue=".NET Project.Deadlock" />
       <item itemvalue=".NET Project.DosAndDonts Thrown" />
       <item itemvalue=".NET Project.DosAndDonts exceptioncatcher" />
       <item itemvalue=".NET Project.DosAndDonts AsyncLock" />
       <item itemvalue=".NET Project.DosAndDonts ContinueWith" />
-      <item itemvalue=".NET Project.FileExample" />
-      <item itemvalue=".NET Project.HowManyThreads" />
-      <item itemvalue=".NET Project.HowManyThreads2" />
+      <item itemvalue=".NET Project.Deadlock2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.Deadlock2" />
         <item itemvalue=".NET Project.DosAndDonts ContinueWith" />
-        <item itemvalue=".NET Project.HowManyThreads2" />
-        <item itemvalue=".NET Project.HowManyThreads" />
-        <item itemvalue=".NET Project.FileExample" />
       </list>
     </recent_temporary>
   </component>
@@ -531,11 +525,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553195456758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="try reproduce deadlock">
+      <created>1553198135737</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553198135737</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add gitignore">
+      <created>1553245696473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553245696473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16284000" />
+    <option name="totallyTimeSpent" value="18716000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,29 +556,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12748213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12748213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32846716" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4021898" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.32846716" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49682286" weight="0.4021898" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49960285" visible="true" weight="0.20875913" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4992057" weight="0.28321168" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="REST Client" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50039715" side_tool="true" visible="true" weight="0.20875913" />
-      <window_info anchor="bottom" id="Build" order="15" weight="0.32846716" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50357425" side_tool="true" visible="true" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" sideWeight="0.49642575" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Messages" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -586,6 +593,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="try reproduce deadlock" />
+    <MESSAGE value="add gitignore" />
     <MESSAGE value="add examples" />
     <option name="LAST_COMMIT_MESSAGE" value="add examples" />
   </component>
@@ -1530,13 +1539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HowManyThreads2/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HowManyThreads2/Program.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/2b/a877e1ce/AsyncMethodBuilderCore.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -1620,13 +1623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HowManyThreads/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HowManyThreads/Program.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6775149-F218-4603-A63E-F2F651D9E73B/59/8bef6da8/ExceptionDispatchInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
@@ -1707,25 +1704,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AsyncOnly/NonStatic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <marker date="1552948519402" expanded="false" signature="6:43" ph="..." />
-            <marker date="1552948519402" expanded="true" signature="64:806" ph="{...}" />
-            <marker date="1552948519402" expanded="true" signature="93:804" ph="{...}" />
-            <marker date="1552948519402" expanded="true" signature="138:197" ph="{...}" />
-            <marker date="1552948519402" expanded="true" signature="236:301" ph="{...}" />
-            <marker date="1552948519402" expanded="true" signature="342:507" ph="{...}" />
-            <marker date="1552948519402" expanded="true" signature="546:798" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AsyncOnly/txt.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Async/txt.txt" />
     <entry file="file://$PROJECT_DIR$/Deadlock/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1740,38 +1719,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AsyncOnly/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Deadlock/Deadlock.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <marker date="1553194795577" expanded="false" signature="6:84" ph="..." />
-            <marker date="1553194795577" expanded="true" signature="105:640" ph="{...}" />
-            <marker date="1553194795577" expanded="true" signature="141:638" ph="{...}" />
-            <marker date="1553194795577" expanded="true" signature="201:632" ph="{...}" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Deadlock/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
-            <marker date="1553195140298" expanded="true" signature="6:177" ph="..." />
-            <marker date="1553195140298" expanded="true" signature="209:703" ph="{...}" />
-            <marker date="1553195140298" expanded="true" signature="256:701" ph="{...}" />
-            <marker date="1553195140298" expanded="true" signature="299:346" ph="{...}" />
-            <marker date="1553195140298" expanded="true" signature="386:433" ph="{...}" />
-            <marker date="1553195140298" expanded="true" signature="564:695" ph="{...}" />
+            <marker date="1553245757837" expanded="true" signature="6:124" ph="..." />
+            <marker date="1553245757837" expanded="true" signature="156:869" ph="{...}" />
+            <marker date="1553245757837" expanded="true" signature="203:867" ph="{...}" />
+            <marker date="1553245757837" expanded="true" signature="254:327" ph="{...}" />
+            <marker date="1553245757837" expanded="true" signature="367:414" ph="{...}" />
+            <marker date="1553245757837" expanded="true" signature="545:676" ph="{...}" />
+            <marker date="1553245757837" expanded="true" signature="719:861" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deadlock/Deadlock.csproj">
+    <entry file="file://$PROJECT_DIR$/Async/Async.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Async/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1553245596136" expanded="false" signature="6:84" ph="..." />
+            <marker date="1553245596136" expanded="true" signature="101:642" ph="{...}" />
+            <marker date="1553245596136" expanded="true" signature="137:640" ph="{...}" />
+            <marker date="1553245596136" expanded="true" signature="197:634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Async/SomeClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <marker date="1553245533081" expanded="false" signature="6:43" ph="..." />
+            <marker date="1553245533081" expanded="true" signature="60:1241" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="89:1239" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="134:193" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="232:297" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="338:503" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="542:794" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="837:1233" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="940:1006" ph="{...}" />
+            <marker date="1553245533081" expanded="true" signature="1101:1167" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

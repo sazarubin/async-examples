@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/AsyncOnly.csproj",
-    "projectName": "AsyncOnly",
-    "projectPath": "/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/AsyncOnly.csproj",
-    "outputPath": "/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/AsyncOnly/obj/",
+    "projectUniqueName": "/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/Async/Async.csproj",
+    "projectName": "Async",
+    "projectPath": "/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/Async/Async.csproj",
+    "outputPath": "/Users/sergeyzarubin/Coding/CSharp/AsyncExamples/Async/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

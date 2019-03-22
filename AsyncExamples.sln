@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncOnly", "AsyncOnly\AsyncOnly.csproj", "{7779239D-4B83-40D4-A689-7ED24F2DCD86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{7779239D-4B83-40D4-A689-7ED24F2DCD86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosAndDonts", "DosAndDonts\DosAndDonts.csproj", "{06AAF5D5-6E63-472A-ABB3-F1928A5A8845}"
 EndProject
